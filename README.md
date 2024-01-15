@@ -21,7 +21,7 @@ Security professional and Co-Founder/Software Engineer at Applicate Inc. CompTIA
 ![Static Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Static Badge](https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![Static Badge](https://img.shields.io/badge/terminal-black?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
