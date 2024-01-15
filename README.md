@@ -1,7 +1,7 @@
 ### About Me
 Security professional and Co-Founder/Software Engineer at Applicate Inc. CompTIA Security+ and EC-Council Certified Ethical Hacker (CEH) certified. 
 
-### My Tech Stack 👨‍💻
+### 👨‍💻 My Tech Stack 
 ![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,8 +29,8 @@ Security professional and Co-Founder/Software Engineer at Applicate Inc. CompTIA
 ![Static Badge](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-### On my roadmap 📚
+### 📚 On my roadmap 
 - CISSP 💀
 
-### 📫 How to reach me:
+### How to reach me 📫
 📨 [kaestnerleonardo@gmail.com](mailto:kaestnerleonardo@gmail.com)
