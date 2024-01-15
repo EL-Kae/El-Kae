@@ -29,7 +29,7 @@ Security professional and Co-Founder/Software Engineer at Applicate Inc. CompTIA
 ![Static Badge](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-### 📚 On my roadmap 
+### 📚 What I'm currently learning
 - CISSP 💀
 
 ### How to reach me 📫
