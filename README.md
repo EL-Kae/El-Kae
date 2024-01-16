@@ -1,7 +1,7 @@
 ### About Me
 I am a security professional and Co-Founder/Software Engineer at Applicate Inc. Native New Yorker and retiring digital nomad.
 
-I have experience in developing and securing various tech stacks from programming languages such as python and javascript to its hosting environment in the cloud. It's best for a security engineer to understand the tech stack and the developer, to better secure the product. I also have industry standard cyber security certifications CompTIA Security+ and the EC-Council Certified Ethical Hacker (CEH). Currently I'm developing security tools for everyone to use to protect their information and software.
+I have experience in developing and securing various tech stacks from programming languages such as python and javascript to hosting environments in the cloud. It's best for a security engineer to understand the tech stack and the developer, to better secure the product. I also have industry standard cyber security certifications CompTIA Security+ and the EC-Council Certified Ethical Hacker (CEH). Currently I'm developing security tools for everyone to use to protect their information and software.
 
 ### How to reach me 📫
 📨 [kaestnerleonardo@gmail.com](mailto:kaestnerleonardo@gmail.com)
