@@ -9,15 +9,15 @@ I have experience in developing and securing various tech stacks from programmin
 ---
 
 ### programming languages I review
-![Static Badge](https://img.shields.io/badge/dart-05599c?style=for-the-badge&logo=dart)
-![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![Static Badge](https://img.shields.io/badge/C-005697?style=for-the-badge&logo=c)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-6195cc?style=for-the-badge&logo=cplusplus)
-![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Static Badge](https://img.shields.io/badge/dart-05599c?style=flat-square&logo=dart)
+![Static Badge](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/C-005697?style=flat-square&logo=c)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-6195cc?style=flat-square&logo=cplusplus)
+![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### What I secure 🦾
 ![Static Badge](https://img.shields.io/badge/flutter-00c1f2?style=for-the-badge&logo=flutter)
