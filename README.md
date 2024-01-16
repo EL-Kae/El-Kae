@@ -4,7 +4,7 @@ Security professional and Co-Founder/Software Engineer at Applicate Inc. CompTIA
 ### How to reach me 📫
 📨 [kaestnerleonardo@gmail.com](mailto:kaestnerleonardo@gmail.com)
 
-### 👨‍💻 My Tech Stack 
+### 👨‍💻 My Tech Stack
 ![Static Badge](https://img.shields.io/badge/dart-05599c?style=for-the-badge&logo=dart)
 ![Static Badge](https://img.shields.io/badge/flutter-00c1f2?style=for-the-badge&logo=flutter)
 ![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
@@ -41,9 +41,22 @@ Security professional and Co-Founder/Software Engineer at Applicate Inc. CompTIA
 ![Static Badge](https://img.shields.io/badge/terminal-black?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/wireshark-275f9d?style=for-the-badge&logo=wireshark)
-
+![Static Badge](https://img.shields.io/badge/sonarqube-4797cc?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Dependency%20Check-212121?style=for-the-badge&logo=dependencycheck)
+![Static Badge](https://img.shields.io/badge/dependabot-0863cf?style=for-the-badge&logo=dependabot)
+![Static Badge](https://img.shields.io/badge/ZAP-0457a2?style=for-the-badge&logo=OWASP)
+![Static Badge](https://img.shields.io/badge/Adobe%20XD-2d001e?style=for-the-badge&logo=adobexd)
 ![Static Badge](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-### 📚 What I'm currently learning
-- CISSP 💀
+
+### 📚 Currently learning
+CISSP 💀
+
+![Static Badge](https://img.shields.io/badge/numpy-4aa6c9?style=for-the-badge&logo=numpy)
+
+![Static Badge](https://img.shields.io/badge/scikit%20learn-3394c7?style=for-the-badge&logo=scikitlearn)
+
+![Static Badge](https://img.shields.io/badge/tensorflow-fe6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
