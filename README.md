@@ -4,8 +4,8 @@ I am a security professional and Co-Founder/Software Engineer at Applicate Inc. 
 
 I have experience in developing and securing various tech stacks from programming languages such as python and javascript to hosting environments in the cloud. It's best for a security engineer to understand the tech stack and the developer, to better secure the product. I also have industry standard cyber security certifications CompTIA Security+ and the EC-Council Certified Ethical Hacker (CEH). Currently I'm developing security tools for everyone to use to protect their information and software.
 
-### How to reach me 📫
-📨 [kaestnerleonardo@gmail.com](mailto:kaestnerleonardo@gmail.com)
+**Reach me at [kaestnerleonardo@gmail.com](mailto:kaestnerleonardo@gmail.com)** 📫         
+<br>
 
 ### programming languages I review
 ![Static Badge](https://img.shields.io/badge/dart-05599c?style=for-the-badge&logo=dart)
@@ -50,8 +50,11 @@ I have experience in developing and securing various tech stacks from programmin
 ![Static Badge](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-### 📚 Currently learning
-- CISSP 💀
-- NumPy
-- scikit-learn
-- TensorFlow
+### Currently learning 📚
+**Next Certification:** CISSP 💀
+
+#### Tech:
+
+![Static Badge](https://img.shields.io/badge/numpy-4aa6c9?style=for-the-badge&logo=numpy)
+![Static Badge](https://img.shields.io/badge/scikit%20learn-3394c7?style=for-the-badge&logo=scikitlearn)
+![Static Badge](https://img.shields.io/badge/tensorflow-fe6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
