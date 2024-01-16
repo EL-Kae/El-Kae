@@ -51,12 +51,7 @@ Security professional and Co-Founder/Software Engineer at Applicate Inc. CompTIA
 
 
 ### 📚 Currently learning
-CISSP 💀
-
-![Static Badge](https://img.shields.io/badge/numpy-4aa6c9?style=for-the-badge&logo=numpy)
-
-![Static Badge](https://img.shields.io/badge/scikit%20learn-3394c7?style=for-the-badge&logo=scikitlearn)
-
-![Static Badge](https://img.shields.io/badge/tensorflow-fe6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-
+- CISSP 💀
+- NumPy
+- scikit-learn
+- TensorFlow
